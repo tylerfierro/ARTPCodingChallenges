@@ -1,0 +1,7 @@
+C:\Users\student\Documents\Visual Studio 2017\Project's\010_ARTP\Multiples3and5\Multiples3and5\bin\Debug\Multiples3and5.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Project's\010_ARTP\Multiples3and5\Multiples3and5\bin\Debug\Multiples3and5.exe
+C:\Users\student\Documents\Visual Studio 2017\Project's\010_ARTP\Multiples3and5\Multiples3and5\bin\Debug\Multiples3and5.pdb
+C:\Users\student\Documents\Visual Studio 2017\Project's\010_ARTP\Multiples3and5\Multiples3and5\obj\Debug\Multiples3and5.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Project's\010_ARTP\Multiples3and5\Multiples3and5\obj\Debug\Multiples3and5.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Project's\010_ARTP\Multiples3and5\Multiples3and5\obj\Debug\Multiples3and5.exe
+C:\Users\student\Documents\Visual Studio 2017\Project's\010_ARTP\Multiples3and5\Multiples3and5\obj\Debug\Multiples3and5.pdb

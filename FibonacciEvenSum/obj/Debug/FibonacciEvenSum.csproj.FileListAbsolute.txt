@@ -1,0 +1,7 @@
+C:\Users\student\source\repos\tylerfierro\ARTPCodingChallenges\FibonacciEvenSum\bin\Debug\FibonacciEvenSum.exe.config
+C:\Users\student\source\repos\tylerfierro\ARTPCodingChallenges\FibonacciEvenSum\bin\Debug\FibonacciEvenSum.exe
+C:\Users\student\source\repos\tylerfierro\ARTPCodingChallenges\FibonacciEvenSum\bin\Debug\FibonacciEvenSum.pdb
+C:\Users\student\source\repos\tylerfierro\ARTPCodingChallenges\FibonacciEvenSum\obj\Debug\FibonacciEvenSum.csprojAssemblyReference.cache
+C:\Users\student\source\repos\tylerfierro\ARTPCodingChallenges\FibonacciEvenSum\obj\Debug\FibonacciEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\tylerfierro\ARTPCodingChallenges\FibonacciEvenSum\obj\Debug\FibonacciEvenSum.exe
+C:\Users\student\source\repos\tylerfierro\ARTPCodingChallenges\FibonacciEvenSum\obj\Debug\FibonacciEvenSum.pdb
